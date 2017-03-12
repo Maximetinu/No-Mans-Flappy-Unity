@@ -8,6 +8,6 @@
     public static string highscoreURL_B = "http://" + host + "/" + directory + "/upload-highscore-b-mode.php";
     public static string setHighscoresInactivesURL = "http://" + host + "/" + directory + "/set-highscores-inactives.php";
 
-    public static string gameName = "FlapyWheel";
+    public static string gameName = "NoMansFlappy";
     public static string hashKey = "MiLlaveSecreta";
 }
