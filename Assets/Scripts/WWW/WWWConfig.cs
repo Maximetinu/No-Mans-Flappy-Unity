@@ -7,6 +7,7 @@
     public static string highscoreURL = "http://" + host + "/" + directory + "/upload-highscore.php";
     public static string highscoreURL_B = "http://" + host + "/" + directory + "/upload-highscore-b-mode.php";
     public static string setHighscoresInactivesURL = "http://" + host + "/" + directory + "/set-highscores-inactives.php";
+    public static string jumpInfoURL = "http://" + host + "/" + directory + "/jump-info.php";
 
     public static string gameName = "NoMansFlappy";
     public static string hashKey = "MiLlaveSecreta";
