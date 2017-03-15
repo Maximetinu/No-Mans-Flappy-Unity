@@ -40,12 +40,14 @@ public class ShowModeA : MonoBehaviour {
             GetComponent<Renderer>().material.SetTexture("_MainTex", AModeTexture);
             playerControllerBMode.enabled = true;
             gameController.InitHighscore();
+            gameController.ChangeBackground(2);
         }
         else
         {
             GetComponent<Renderer>().material.SetTexture("_MainTex", BModeTexture);
             playerControllerBMode.enabled = false;
             gameController.InitHighscore();
+            gameController.ChangeBackground(1);
         }
     }
 }

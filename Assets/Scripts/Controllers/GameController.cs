@@ -102,6 +102,16 @@ public class GameController : MonoBehaviour {
         }
     }
 
+    public Material aMaterial;
+    public Material bMaterial;
+
+    public void ChangeBackground(int mode){
+        if( mode == 1)
+            background.GetComponent<Renderer>().material = aMaterial;
+        else if (mode == 2)
+            background.GetComponent<Renderer>().material = bMaterial;
+    }
+
     private void updateScoreText()
     {
         scoreText.text = score.ToString();
