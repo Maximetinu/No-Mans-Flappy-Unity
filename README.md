@@ -7,3 +7,7 @@ Web repo (and server-related scripts): [Github/Maximetinu/No-Mans-Flappy-Web](ht
 
 ## Instructions
 Simply download the repo and open it as an Unity Project
+
+## Credits
+Art and programming by myself.
+Music by [Davis](https://www.instagram.com/davisnievas/)
