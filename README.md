@@ -18,6 +18,6 @@ Simply download the repo and open it as an Unity Project
 ![Screenshot](Images/screenshot-4.png)
 
 ## Credits
-Art and programming by myself.
-
-Music by [Davis](https://www.instagram.com/davisnievas/).
+Hancrafted with :heart: by:
+- Myselft (art, programming and fx)
+- [Davis] (music) (https://www.instagram.com/davisnievas/).
