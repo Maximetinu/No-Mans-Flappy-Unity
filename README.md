@@ -15,7 +15,7 @@ Simply download the repo and open it as an Unity Project
 
 ![Screenshot](Images/screenshot-3.png)
 
-![Screenshot](Images/screenshot-5.png)
+![Screenshot](Images/screenshot-4.png)
 
 ## Credits
 Art and programming by myself.
