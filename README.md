@@ -8,6 +8,15 @@ Web repo (and server-related scripts): [Github/Maximetinu/No-Mans-Flappy-Web](ht
 ## Instructions
 Simply download the repo and open it as an Unity Project
 
+## Screenshots
+![Screenshot](Images/screenshot-0.png)
+
+![Screenshot](Images/screenshot-1.png)
+
+![Screenshot](Images/screenshot-3.png)
+
+![Screenshot](Images/screenshot-4.png)
+
 ## Credits
 Art and programming by myself.
 
