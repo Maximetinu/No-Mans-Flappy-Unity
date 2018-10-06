@@ -7,7 +7,7 @@ public class Mover : MonoBehaviour {
 
     void Start()
     {
-        this.GetComponent<Rigidbody>().AddForce(new Vector3(-speed,0,0));
+        this.GetComponent<Rigidbody>().AddForce(new Vector3(-speed, 0, 0));
     }
 
 }
